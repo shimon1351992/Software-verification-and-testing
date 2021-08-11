@@ -1,9 +1,9 @@
-*"Original-Project"-> the original project
+"Original-Project"-> the original project
 
-*"Improved-Project"-> the improved project, including the console app inside "CshConsoleAPI"
+"Improved-Project"-> the improved project, including the console app inside "CshConsoleAPI"
 
-*"JUnitTests"-> JUnit testing 
+"JUnitTests"-> JUnit testing 
 
-*"TestingReport.docx"-> report of test for unit tests of the impoved/fixed functionality
+"TestingReport.docx"-> report of test for unit tests of the impoved/fixed functionality
 
-*"UserGuide.docx"-> updated use guide with the new changes
+"UserGuide.docx"-> updated use guide with the new changes
